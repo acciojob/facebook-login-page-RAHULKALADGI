@@ -61,7 +61,7 @@ form>button{
 	.form>hr{
 		width : 90%;
 	}
-	.form button{
+	.form>button{
 		background : rgb(67,183,42);
 		color : white;
 		margin : auto;
