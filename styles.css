@@ -50,7 +50,7 @@ form>button{
 	background : rgb(26,119,242);
 	color : white;
 }
-	.form>p{
+	.form p{
 		margin : auto;
 		margin-top : -20px;
 		color : rgb(26,119,242);
@@ -61,7 +61,7 @@ form>button{
 	.form>hr{
 		width : 90%;
 	}
-	.form>button{
+	.form button{
 		background : rgb(67,183,42);
 		color : white;
 		margin : auto;
